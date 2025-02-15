@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019. I'm 19 years old.😂<br>📚 I am currently studying Systems and Computing Engineering.<br>🎯 Goals: Work on increasingly challenging projects that have a significant impact.<br>🎲 Fun fact: I started in this world of development wanting to create video games.</p>
+<p align="left">✨ I'm 19 years old. Creating bugs since 2020.😂 <br>📚 I am currently studying Systems and Computing Engineering.<br>🎯 Goals: Work on increasingly challenging projects that have a significant impact.<br>🎲 Fun fact: I started in this world of development wanting to create video games.</p>
 
 ###
 
